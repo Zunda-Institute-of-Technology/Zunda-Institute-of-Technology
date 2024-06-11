@@ -1,2 +1,2 @@
-- 👋 Welcom to Zunnda-Institute-of-Technology
+👋 Welcom to Zunnda-Institute-of-Technology
 
